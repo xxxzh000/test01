@@ -1,0 +1,6 @@
+index aaaa
+set nu
+w
+wq
+
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
